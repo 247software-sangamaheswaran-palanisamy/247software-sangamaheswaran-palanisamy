@@ -10,7 +10,7 @@
 
 Automation QA Engineer with hands-on internship experience in software testing, test automation, and backend API validation. Proficient in Playwright, Rest Assured, JUnit, and Postman, with practical exposure to designing and executing automated test suites for web and backend applications.
 
-**Secondary Focus:** Motivated Java Developer with strong backend development experience using Spring Boot, REST APIs, and MongoDB. Experienced in designing scalable, production-grade applications with a passion for building reliable and maintainable software solutions.
+Motivated Java Developer with strong backend development experience using Spring Boot, REST APIs, and MongoDB. Experienced in designing scalable, production-grade applications with a passion for building reliable and maintainable software solutions.
 
 Experienced in validating RESTful APIs, identifying defects, and performing root cause analysis to improve software reliability. Skilled in collaborating with development teams within Agile environments and tracking defects using Jira. Additionally experienced in leveraging AI-assisted tools such as Claude Code to accelerate test development and improve productivity.
 
